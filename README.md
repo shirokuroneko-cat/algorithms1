@@ -8,3 +8,6 @@
 
 #### sequential_search.py
     線形探索アルゴリズム
+
+#### selection_sort.py
+    ソートアルゴリズム -> 選択法(selection sort)
