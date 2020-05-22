@@ -8,3 +8,6 @@
 
 #### sequential_search.py
     線形探索アルゴリズム
+
+#### insertion_sort.py
+    挿入法
