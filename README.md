@@ -8,3 +8,6 @@
 
 #### sequential_search.py
     線形探索アルゴリズム
+
+#### binary_search.py
+    二分探索
